@@ -4,7 +4,7 @@
 // + PickupLocation with `address` and `city` properties
 
 
-class Scooter () {
+class Scooter (year, color, model) {
 	this.year = year;
 	this.color = color;
 	this.model = model
